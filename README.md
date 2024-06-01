@@ -1,6 +1,6 @@
 Aplicación web Estación BazAR
 
-Equipo de desarrollo:
+Equipo de desarrollo: 
 
 Mario Alberto Rosas Alarcón - Scrum Master
 Yahir Sarabia Villareal - Product Owner
